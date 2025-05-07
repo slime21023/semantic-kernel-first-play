@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+semantic_kernel_first_play.egg-info/PKG-INFO
+semantic_kernel_first_play.egg-info/SOURCES.txt
+semantic_kernel_first_play.egg-info/dependency_links.txt
+semantic_kernel_first_play.egg-info/requires.txt
+semantic_kernel_first_play.egg-info/top_level.txt
